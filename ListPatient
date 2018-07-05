@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<hospital>
+  <patient>
+    <surName>John</surName>
+    <surname>Jonson</surname>
+    <dateOfBirth>1984-12-12</dateOfBirth>
+    <health>true</health>
+  </patient>
+  <patient>
+    <surName>Jonson</surName>
+    <surname>Jon</surname>
+    <dateOfBirth>1999-05-03</dateOfBirth>
+    <health>false</health>
+  </patient>
+</hospital>
